@@ -1,0 +1,3 @@
+[submodule "SpellCorrector/SinhalaSpellChecker"]
+	path = SpellCorrector/SinhalaSpellChecker
+	url = https://github.com/chason94/SinhalaSpellChecker.git
